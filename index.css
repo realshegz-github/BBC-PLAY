@@ -1,0 +1,91 @@
+
+#rowOne{
+    color: rgb(78, 77, 77);
+    padding-left: 7.5%;
+}
+#welcomeContent{
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+}
+#left-nav{
+	border-left:2px solid rgb(190, 190, 190)
+}
+
+#newsContent{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+#sportContent{
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+}
+.news{
+    padding-left: 8%;
+    padding-right: 7.5%;
+}
+.sport{
+    padding-left: 8%;
+    padding-right: 7.5%;
+}
+.africaNews{
+    padding-left: 8%;
+    padding-right: 7.5%;
+    padding-top: 1%;
+}
+.editor{
+    padding-left: 8%;
+    padding-right: 7.5%;
+
+}
+#editorsContent{
+    padding-left: 8%;
+    padding-right: 7.5%;
+}
+.list-group a h4{
+padding-top: 5%;
+padding-bottom: 5%;
+}
+.media_header{
+   padding-left: 2%;
+   padding-right: 2%; 
+    margin-top: -120px;
+    color: white;
+}
+.media_summary{
+    padding-left: 2%;
+   padding-right: 5%; 
+   color: rgba(255, 255, 255, 0.719);
+}
+.sub_media_header{
+    padding-left: 3%;
+    padding-right: 5%;
+    font-size: 20px;
+    margin-top: -88px;
+    color: white;
+
+}
+.sub_media_header_cricket{
+    padding-left: 3%;
+    padding-right: 5%;
+    font-size: 20px;
+    color: white;
+    margin-top: -110px;
+}
+.sub_media_sum_cricket{
+    font-size: 100%; 
+    color: rgb(172, 169, 169);
+    padding-left: 3%;
+}
+
+.sub_media_summary{
+    font-size: 100%; 
+    color: rgb(172, 169, 169);
+    padding-left: 3%;
+}
+#image-fluid{
+    background: url("https://ychef.files.bbci.co.uk/1200x675/p08h02kk.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+     height: 60vh;
+   
+}
